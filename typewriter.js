@@ -7,4 +7,3 @@ for (const char of sentenceBreak) {
   }, delay);
   delay += 100;
 }
-
